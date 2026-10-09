@@ -1,0 +1,7 @@
+# Khong commit thong tin nhay cam.
+.env
+
+# Tep tam va log.
+*.log
+__pycache__/
+*.py[cod]
